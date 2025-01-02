@@ -1,0 +1,1 @@
+This repository contains a Perl script that demonstrates a potential issue with hash iteration. The script iterates through a hash and prints each key-value pair. However, if the hash contains keys that are not strings or numbers, the behavior is undefined and may produce unexpected results.  The solution script offers a more robust method for handling such cases.
